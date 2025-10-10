@@ -1,0 +1,15 @@
+html, body {
+    width: 200px;
+}
+
+#addEntriesForm {
+    margin: 2px;
+}
+
+#addEntries {
+    margin-top: 2px;
+}
+
+.hidden {
+    display: none;
+}
